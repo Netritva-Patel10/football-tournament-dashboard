@@ -2,7 +2,7 @@
 
 An executive analytics dashboard built in Tableau evaluating team tactical profiles, squad physicality, and player performance metrics for quarter-finalists onward.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
